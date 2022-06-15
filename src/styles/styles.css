@@ -1,0 +1,38 @@
+.icon{
+    width: 32px;
+    height: 32px;
+    border-radius: 5px;
+}
+
+.content{
+    margin-top: 50px;
+}
+
+.button{
+    margin-top: 30px;
+}
+
+.options{
+    margin-left: 27%;
+    margin-top: 15px;
+    margin-bottom: 45px;
+    width: 45%;
+}
+
+.catalogo{
+    margin-left: 34%;
+}
+
+.avion{
+    margin-top: 3px !important;
+    margin-left: 22px;
+}
+
+.avion .icon{
+    margin-right: 24px;
+}
+
+.card:hover{
+    background-color: rgba(184, 182, 182, 0.726);
+    border-radius: 8px;
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "departureDate": "28-02-2022",
+        "departureAirportCode": "VEN",
+        "departureAirportName": "MEXICO AIR",
+        "departureCity": "CALI",
+        "departureLocale": "VALLE",
+        "arrivalDate": "01-03-2022",
+        "arrivalAirportCode": "ESP",
+        "arrivalAirportName": "ESP Air",
+        "arrivalCity": "MADRID",
+        "arrivalLocale": "ITA",
+        "ticketPrice": 390,
+        "ticketCurrency": "TK-78",
+        "flightNumber": 89,
+        "seatCapacity": 300
+      },{
+        "id":2,
+        "departureDate": "28-02-2022",
+        "departureAirportCode": "COL",
+        "departureAirportName": "EL DORADO",
+        "departureCity": "MDELLIN",
+        "departureLocale": "ANTIOQUIA",
+        "arrivalDate": "01-03-2022",
+        "arrivalAirportCode": "ITL",
+        "arrivalAirportName": "ITALY Air",
+        "arrivalCity": "ROMA",
+        "arrivalLocale": "ITA",
+        "ticketPrice": 320,
+        "ticketCurrency": "TK-7",
+        "flightNumber": 253,
+        "seatCapacity": 250
+      },{
+        "id":3,
+        "departureDate": "28-02-2022",
+        "departureAirportCode": "COL",
+        "departureAirportName": "MEXICO AIR",
+        "departureCity": "GUADALAJARA",
+        "departureLocale": "GUADALAJARA",
+        "arrivalDate": "01-03-2022",
+        "arrivalAirportCode": "ITL",
+        "arrivalAirportName": "ITALY Air",
+        "arrivalCity": "MILAN",
+        "arrivalLocale": "ITA",
+        "ticketPrice": 320,
+        "ticketCurrency": "TK-7",
+        "flightNumber": 534,
+        "seatCapacity": 250
+      }
+]
+
